@@ -1,0 +1,3 @@
+[submodule "spawn"]
+	path = spawn
+	url = https://github.com/ceph/spawn
